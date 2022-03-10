@@ -15,6 +15,9 @@ blog.csdn.net##.set-code-hide:style(user-select: unset !important;height:unset !
 blog.csdn.net###content_views pre:style(user-select: unset !important)
 blog.csdn.net###asideNewNps
 
+! 左右边栏，需要去掉的取消注释 !开头为注释行。
+! blog.csdn.net##.asideHotArticle:remove()
+
 ```
 
 
