@@ -15,7 +15,7 @@ blog.csdn.net##.set-code-hide:style(user-select: unset !important;height:unset !
 blog.csdn.net###content_views pre:style(user-select: unset !important)
 blog.csdn.net###asideNewNps
 
-! 去掉复制内容后,内容后附带的尾巴
+! 去掉复制内容后,内容后附带的尾巴,加了规则需要shift+f5强制刷新,因为有js缓存
 ||g.csdnimg.cn/copyright/*$script,domain=blog.csdn.net
 
 ! 左右边栏，需要去掉的取消注释 !开头为注释行。
