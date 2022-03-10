@@ -16,7 +16,11 @@ blog.csdn.net###content_views pre:style(user-select: unset !important)
 blog.csdn.net###asideNewNps
 
 ! 左右边栏，需要去掉的取消注释 !开头为注释行。
-! blog.csdn.net##.asideHotArticle:remove()
+! blog.csdn.net##.asideHotArticle
+
+! 百度推荐的CSDN站内文章
+
+! blog.csdn.net##.insert-baidu-box
 
 ```
 
